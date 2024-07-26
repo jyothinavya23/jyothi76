@@ -4,5 +4,6 @@ public class simple
 	{
 		system.out.println("java");
 		system.ot.println("welcome to spt");
+		system.out.println("tumkuru");
 	}
 }
