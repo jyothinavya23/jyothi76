@@ -2,8 +2,8 @@ public class simple
 {
 	public static void main(String[]args)
 	{
-		system.out.println("java");
-		system.ot.println("welcome to spt");
-		system.out.println("tumkuru");
+		
+		system.ot.println("welcome to java program");
+		
 	}
 }
